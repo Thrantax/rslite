@@ -1,8 +1,5 @@
 RSLite
 ---------
+Fork of: https://github.com/nikkiii/rslite
 
-The open-source Runescape loader for OldSchool and RS3.
-
-This by no means is 'ok' by Jagex, since it bypasses their game bar/ads if any, use at your own risk.
-
-If you do use this, please support Jagex some other way (Membership, purchasing in-game bonds, etc), as you will not see advertisements if free to play.
+TL;DR Removed RS3 Loading as Java is no longer supported, this is a lightweight alternative to the OldSchool RuneScapes official client launcher https://oldschool.runescape.com/download
